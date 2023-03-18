@@ -3,7 +3,7 @@
 ### Numpy
 
 <p>
-<img src="https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg">
+<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
 </p>
 
 IPython Notebook(s) demonstrating NumPy functionality.
