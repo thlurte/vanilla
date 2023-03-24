@@ -27,4 +27,19 @@ IPython Notebook(s) demonstrating RegEx functionality.
 | [sub](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
 
 
+### Pandas
+
+<p>
+<img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg">
+</p>
+
+IPython Notebook(s) demonstrating Pandas functionality.
+
+
+| Notebook                                                                                          | Name                    |
+|---------------------------------------------------------------------------------------------------|-------------------------|
+| [sub](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
+
+
+
 
