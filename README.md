@@ -11,7 +11,7 @@ IPython Notebook(s) demonstrating NumPy functionality.
 
 | Notebook                                                                                                 | Name                 |
 |----------------------------------------------------------------------------------------------------------|----------------------|
-| [Random Numbers](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers |
+| [numpy.random.randint](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers |
 
 ### Regular Expressions
 
@@ -24,7 +24,7 @@ IPython Notebook(s) demonstrating RegEx functionality.
 
 | Notebook                                                                                          | Name                    |
 |---------------------------------------------------------------------------------------------------|-------------------------|
-| [sub](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
+| [re.sub](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
 
 
 ### Pandas
@@ -36,9 +36,9 @@ IPython Notebook(s) demonstrating RegEx functionality.
 IPython Notebook(s) demonstrating Pandas functionality.
 
 
-| Notebook                                                                                          | Name                    |
-|---------------------------------------------------------------------------------------------------|-------------------------|
-| [sub](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
+| Notebook                                                                           | Name                        |
+|------------------------------------------------------------------------------------|-----------------------------|
+| [pandas.Series](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pandas/File-102.ipynb) | Entrophy of written English |
 
 
 
