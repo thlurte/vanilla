@@ -9,9 +9,10 @@
 IPython Notebook(s) demonstrating NumPy functionality.
 
 
-| Notebook                                                                                                 | Name                 |
-|----------------------------------------------------------------------------------------------------------|----------------------|
+| Notebook                                                                                                       | Name                 |
+|----------------------------------------------------------------------------------------------------------------|----------------------|
 | [numpy.random.randint](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers |
+| []                                                                                                             |                      |
 
 ### Regular Expressions
 
