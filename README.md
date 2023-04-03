@@ -47,7 +47,7 @@ IPython Notebook(s) demonstrating Sympy functionality.
 
 | Notebook                                                                           | Name                        |
 |------------------------------------------------------------------------------------|-----------------------------|
-| [sympy.diff](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pandas/File-102.ipynb) | Gradient Decent |
+| [sympy.diff](https://github.com/Thlurte/Vanilla/blob/main/Sympy/20230403115253874290.ipynb) | Gradient Decent |
 
 
 
