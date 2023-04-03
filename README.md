@@ -17,7 +17,6 @@ IPython Notebook(s) demonstrating NumPy functionality.
 ### Regular Expressions
 
 <p>
-<img src="https://w7.pngwing.com/pngs/742/330/png-transparent-regular-expression-computer-icons-regular-language-regex-angle-text-logo.png">
 </p>
 
 IPython Notebook(s) demonstrating RegEx functionality.
@@ -40,6 +39,15 @@ IPython Notebook(s) demonstrating Pandas functionality.
 | Notebook                                                                           | Name                        |
 |------------------------------------------------------------------------------------|-----------------------------|
 | [pandas.Series](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pandas/File-102.ipynb) | Entrophy of written English |
+
+
+### Sympy
+
+IPython Notebook(s) demonstrating Sympy functionality.
+
+| Notebook                                                                           | Name                        |
+|------------------------------------------------------------------------------------|-----------------------------|
+| [sympy.diff](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pandas/File-102.ipynb) | Gradient Decent |
 
 
 
