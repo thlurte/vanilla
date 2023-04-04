@@ -9,10 +9,12 @@
 IPython Notebook(s) demonstrating NumPy functionality.
 
 
-| Notebook                                                                                               | Name                 |
-|--------------------------------------------------------------------------------------------------------|----------------------|
-| [numpy.random](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers |
-| [numpy.fft](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/101.ipynb)                     | Spectral Analysis                    |
+| Notebook                                                                                               | Name                                      |
+|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| [numpy.random](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers                      |
+| [numpy.fft](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/101.ipynb)                     | Spectral Analysis                         |
+| [numpy](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20230404134951493206.ipynb)        | Gradient Descent (Parametric Experiments) |
+| [numpy](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates)|
 
 ### Regular Expressions
 
@@ -47,7 +49,7 @@ IPython Notebook(s) demonstrating Sympy functionality.
 
 | Notebook                                                                           | Name                        |
 |------------------------------------------------------------------------------------|-----------------------------|
-| [sympy.diff](https://github.com/Thlurte/Vanilla/blob/main/Sympy/20230403115253874290.ipynb) | Gradient Decent |
+| [sympy.diff](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Sympy/20230404144840702834.ipynb) | Gradient Decent |
 
 
 
