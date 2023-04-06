@@ -11,10 +11,10 @@ IPython Notebook(s) demonstrating NumPy functionality.
 
 | Notebook                                                                                               | Name                                      |
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| [numpy.random](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers                      |
-| [numpy.fft](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/101.ipynb)                     | Spectral Analysis                         |
-| [numpy](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20230404134951493206.ipynb)        | Gradient Descent (Parametric Experiments) |
-| [numpy](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates)|
+| [20221225151217086929](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20221225151217086929.ipynb) | Law of Large Numbers                      |
+| [20230406212520632242](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/101.ipynb)                     | Spectral Analysis                         |
+| [20230404134951493206](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20230404134951493206.ipynb)        | Gradient Descent (Parametric Experiments) |
+| [20230404152512034886](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Numpy/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates)|
 
 ### Regular Expressions
 
@@ -26,7 +26,7 @@ IPython Notebook(s) demonstrating RegEx functionality.
 
 | Notebook                                                                                          | Name                    |
 |---------------------------------------------------------------------------------------------------|-------------------------|
-| [re.sub](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
+| [20230406212350831311](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
 
 
 ### Pandas
@@ -40,7 +40,7 @@ IPython Notebook(s) demonstrating Pandas functionality.
 
 | Notebook                                                                           | Name                        |
 |------------------------------------------------------------------------------------|-----------------------------|
-| [pandas.Series](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pandas/File-102.ipynb) | Entrophy of written English |
+| [20230406212246509623](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pandas/File-102.ipynb) | Entrophy of written English |
 
 
 ### Sympy
@@ -49,7 +49,16 @@ IPython Notebook(s) demonstrating Sympy functionality.
 
 | Notebook                                                                           | Name                        |
 |------------------------------------------------------------------------------------|-----------------------------|
-| [sympy.diff](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Sympy/20230404144840702834.ipynb) | Gradient Decent |
+| [20230404144840702834](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Sympy/20230404144840702834.ipynb) | Gradient Decent |
+
+
+### Scikit-Learn
+
+IPython Notebook(s) demonstrating Scikit-Learn functionality.
+
+| Notebook                                                                           | Name                        |
+|------------------------------------------------------------------------------------|-----------------------------|
+| [20230406121024819500](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Sympy/20230404144840702834.ipynb) | Clustering PCA, t-SNE, and k-means |
 
 
 
