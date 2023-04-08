@@ -61,5 +61,13 @@ IPython Notebook(s) demonstrating Scikit-Learn functionality.
 | [20230406121024819500](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Sympy/20230404144840702834.ipynb) | Clustering PCA, t-SNE, and k-means |
 
 
+### Pytorch
 
+IPython Notebook(s) demonstrating Pytoch functionality
+
+| Notebook                  | Name                          |
+|---------------------------|-------------------------------|
+| [20230408114323762483](#) | Binary Classification with NN |
+| [20230408101906275314](#) | Linear Regression with NN     |
+|                           |                               |
 
