@@ -1,6 +1,5 @@
 # Vanilla-ipython-notebooks
 ## Libraries
-### Numpy
 
 <p>
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
@@ -29,7 +28,6 @@ IPython Notebook(s) demonstrating RegEx functionality.
 | [20230406212350831311](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Regular%20Expressions/File-101.ipynb) | Text search and replace |
 
 
-### Pandas
 
 <p>
 <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg">
@@ -67,7 +65,7 @@ IPython Notebook(s) demonstrating Pytoch functionality
 
 | Notebook                  | Name                          |
 |---------------------------|-------------------------------|
-| [20230408114323762483](#) | Binary Classification with NN |
-| [20230408101906275314](#) | Linear Regression with NN     |
+| [20230408114323762483](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408114323762483.ipynb) | Binary Classification with NN |
+| [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408101906275314.ipynb) | Linear Regression with NN     |
 |                           |                               |
 
