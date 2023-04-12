@@ -48,17 +48,18 @@ IPython Notebook(s) demonstrating Sympy functionality.
 
 IPython Notebook(s) demonstrating Scikit-Learn functionality.
 
-| Notebook                                                                                                       | Name                               |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [20230406121024819500](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Sympy/20230404144840702834.ipynb) | Clustering PCA, t-SNE, and k-means |
+| Notebook                                                                                                              | Name                               |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [20230406121024819500](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Scikit-Learn/20230406100449170308.ipynb) | Clustering PCA, t-SNE, and k-means |
 
 ### Pytorch
 
 IPython Notebook(s) demonstrating Pytoch functionality
 
-| Notebook                                                                                                         | Name                                          |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [20230408114323762483](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408114323762483.ipynb) | Binary Classification with NN                 |
-| [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408101906275314.ipynb) | Linear Regression with NN                     |
-| [20230408151749841563](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408151749841563.ipynb) | Binary Classificatin (Parametric Experiments) |
-| []                                                                                                               |                                               |
+| Notebook                                                                                                         | Name                                              |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [20230408114323762483](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408114323762483.ipynb) | Binary Classification with NN                     |
+| [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408101906275314.ipynb) | Linear Regression with NN                         |
+| [20230408151749841563](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408151749841563.ipynb) | Binary Classificatin (Parametric Experiments)     |
+| [20230410140124120369](https://github.com/Thlurte/Vanilla/blob/main/Pytorch/20230410140124120369.ipynb)          | Binary Classification with Multilayer Perceptrons |
+| [20230410155618847486](https://github.com/Thlurte/Vanilla/blob/main/Pytorch/20230410155446627848.ipynb)          | Binary Classification without Nonlinear Functions |
