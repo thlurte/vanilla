@@ -66,4 +66,5 @@ IPython Notebook(s) demonstrating Pytoch functionality
 | File   | Name    |
 |--------------- | --------------- |
 | [20230410155618847486](https://dancing-yeot-955620.netlify.app)   | Visualizing Linear Interpolation   |
+| [20230719354643535133](https://stellar-panda-b4d359.netlify.app) | Visualizing Bézier Curves|
 

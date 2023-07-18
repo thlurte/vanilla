@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                overflow:hidden;
+                margin:0;
+            }
+        </style>
+    </head>
+    <body>
+        <canvas id="canvas"></canvas>
+
+        <script>
+            canvas.width=window.innerWidth;
+            canvas.height=window.innerHeight;
+
+            const ctx=canvas.getContext('2d')
+            const bottomLeft={x:0,y:canvas.height};
+            const bottomRight={x:canvas.width,y:canvas.height}; // done
+            const topLeft={x:0,y:0}; // done
+            const topRight={x:canvas.width,y:0};
+
+            const center={x:lerp(topLeft.x,bottomRight.x,1/2),y:lerp(topLeft.y,bottomRight.y,1/2)};
+
+
+            animate();
+
+            function animate(){
+                ctx.clearRect(0,0,canvas.width,canvas.height);
+
+                const sec=new Date().getTime()/1000;
+                const t=(Math.sin(sec)+1)/2;
+                const u=(Math.sin(sec)-1)/2;
+
+                const C={x:lerp(center.x,topRight.x,t),y:lerp(center.y,topRight.y,t)};
+                const D={x:lerp(topLeft.x,center.x,t),y:lerp(topLeft.y,center.y,t)};
+                const E={x:lerp(center.x,bottomLeft.x,t),y:lerp(center.y,bottomLeft.y,t)};
+                const F={x:lerp(center.x,bottomRight.x,t),y:lerp(center.y,bottomRight.y,t)};
+
+
+                drawLine(C,D);
+                drawText(topLeft,topRight)
+                drawDashedLine(topLeft,center)
+                drawDashedLine(center,topRight)
+                //drawLine(E,F);
+
+                drawDot(C);
+                drawDot(D);
+                drawDot(vlerp(D,C,t));
+
+                //drawDot(E);
+                //drawDot(F);
+
+
+
+                drawDot(topLeft);
+                drawDot(bottomRight);
+                drawDot(bottomLeft);
+                drawDot(topRight);
+                drawDot(center)
+
+
+                requestAnimationFrame(animate);
+            }
+
+
+            function drawDot(pos){
+                ctx.setLineDash([]);
+            ctx.beginPath();
+            ctx.fillStyle="white";
+            ctx.strokeStyle="black";
+            ctx.arc(pos.x,pos.y,10,0,Math.PI*2);
+            ctx.fill();
+            ctx.stroke();
+            }
+
+            function drawLine(A,B){
+                ctx.setLineDash([]);
+                ctx.beginPath();
+                ctx.moveTo(A.x,A.y);
+                ctx.lineTo(B.x,B.y);
+                ctx.stroke();
+            }
+
+              // linear interpolation on two dimensional plane
+            function vlerp(X,Y,t){
+                return {x:lerp(X.x,Y.x,t),y:lerp(X.y,Y.y,t)}
+            }
+
+            function drawDashedLine(A,B){
+                ctx.beginPath();
+                ctx.setLineDash([5,5]);
+                ctx.moveTo(A.x,A.y);
+                ctx.lineTo(B.x,B.y);
+                ctx.stroke();
+            }
+
+
+            function drawText(A,B){
+
+                ctx.fillStyle="black";
+                ctx.textBaseline="middle";
+                ctx.textAlign="center";
+                ctx.fillText("Quadratic Bezier Curve",lerp(A.x,B.x,1/2),B.y+25);
+                ctx.font="bold 25px Arial";
+            }
+
+
+
+
+
+
+
+
+
+
+            function lerp(A,B,t){
+                return A+(B-A)*t;
+            }
+        </script>
+    </body>
+</html>
