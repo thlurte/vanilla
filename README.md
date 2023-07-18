@@ -65,5 +65,5 @@ IPython Notebook(s) demonstrating Pytoch functionality
 
 | File   | Name    |
 |--------------- | --------------- |
-| [20230410155618847486]()   | Linear Interpolation   |
+| [20230410155618847486](https://github.com/Thlurte/Vanilla/blob/main/JavaScript/Vanilla/Linear%20Interpolation/index.html)   | Visualizing Linear Interpolation   |
 
