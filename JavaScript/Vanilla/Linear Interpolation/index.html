@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+    body {
+        margin:0;
+    }
+        </style>
+    </head>
+    <body>
+    <canvas id="canvas"></canvas>
+    </body>
+
+    <script>
+        canvas.width=window.innerWidth;
+        canvas.height=window.innerHeight;
+
+        const ctx=canvas.getContext("2d");
+        const A={x:300,y:200,t:"A"};
+        const H={x:300,y:150,t:"H"};
+        const I={x:900,y:150,t:"I"};
+        const B={x:900,y:200,t:"B"};
+        const D={x:900,y:300,t:"D"};
+        const F={x:900,y:400,t:"F"};
+
+        animate();
+
+        function animate(){
+            ctx.clearRect(0,0,canvas.width,canvas.height);
+
+            const sec=new Date().getTime()/1000;
+            const t=(Math.sin(sec)+1)/2;
+
+            const C={x:lerp(A.x,B.x,t),y:200,t:"C"};
+            const E={x:lerp(A.x,D.x,t),y:lerp(A.y,D.y,t),t:"E"};
+            const G=vlerp(A,F,t,"G");
+            drawText(H,I);
+            drawDashedLine(H,I);
+
+            drawLine(A,B);
+            drawLine(A,D);
+            drawLine(A,F);
+            drawDot(C);
+            drawDot(C);
+
+            drawDot(G);
+            drawDot(E);
+
+            drawDot(A);
+            drawDot(B);
+            drawDot(D);
+            drawDot(F);
+
+
+
+            requestAnimationFrame(animate);
+        }
+
+
+
+        // linear interpolation on one dimensional plane
+        function lerp(x,y,t){
+            return x+(y-x)*t
+        }
+
+        // linear interpolation on two dimensional plane
+        function vlerp(X,Y,t,l){
+            return {x:lerp(X.x,Y.x,t),y:lerp(X.y,Y.y,t),t:l}
+        }
+
+        function drawDot(pos){
+            ctx.beginPath();
+            ctx.fillStyle="white";
+            ctx.strokeStyle="black";
+            ctx.arc(pos.x,pos.y,10,0,Math.PI*2);
+            ctx.fill();
+            ctx.stroke();
+            ctx.fillStyle="black";
+            ctx.textAlign="center";
+            ctx.fillText(pos.t,pos.x,pos.y);
+            ctx.textBaseline="middle";
+            ctx.font="bold 14px Arial";
+        }
+
+        function drawLine(A,B){
+            ctx.setLineDash([]);
+            ctx.beginPath();
+            ctx.moveTo(A.x,A.y);
+            ctx.lineTo(B.x,B.y);
+            ctx.stroke();
+        }
+
+
+        function drawDashedLine(A,B){
+            ctx.beginPath();
+            ctx.setLineDash([5,5]);
+            ctx.moveTo(A.x,A.y);
+            ctx.lineTo(B.x,B.y);
+            ctx.stroke();
+        }
+
+        function drawText(A,B){
+
+            ctx.fillStyle="black";
+            ctx.textBaseline="middle";
+            ctx.textAlign="center";
+            ctx.fillText("Linear Interpolation",lerp(A.x,B.x,1/2),B.y-25);
+            ctx.font="bold 25px Arial";
+        }
+
+
+    </script>
+</html>

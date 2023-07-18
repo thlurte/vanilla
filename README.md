@@ -1,7 +1,4 @@
-# Vanilla-ipython-notebooks
-
-## Libraries
-
+# Python
 <p>
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
 </p>
@@ -63,3 +60,10 @@ IPython Notebook(s) demonstrating Pytoch functionality
 | [20230408151749841563](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Pytorch/20230408151749841563.ipynb) | Binary Classificatin (Parametric Experiments)     |
 | [20230410140124120369](https://github.com/Thlurte/Vanilla/blob/main/Pytorch/20230410140124120369.ipynb)          | Binary Classification with Multilayer Perceptrons |
 | [20230410155618847486](https://github.com/Thlurte/Vanilla/blob/main/Pytorch/20230410155446627848.ipynb)          | Binary Classification without Nonlinear Functions |
+
+# JavaScript
+
+| File   | Name    |
+|--------------- | --------------- |
+| [20230410155618847486]()   | Linear Interpolation   |
+
