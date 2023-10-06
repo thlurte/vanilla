@@ -9,6 +9,7 @@ IPython Notebook(s) demonstrating NumPy functionality.
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | [20221225151217086929](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20221225151217086929.ipynb) | Law of Large Numbers                      |
 | [20230406212520632242](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/101.ipynb)                  | Spectral Analysis                         |
+| [20231006152250564853](https://colab.research.google.com/drive/1FPBsaUgrF5NS8oNYjD-Oj1skwl1O_4CV?usp=sharing)                  | Modeling If-Else Statements                          |
 | [20230404134951493206](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20230404134951493206.ipynb) | Gradient Descent (Parametric Experiments) |
 | [20230404152512034886](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates) |
 
