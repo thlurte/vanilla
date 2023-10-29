@@ -12,6 +12,7 @@ IPython Notebook(s) demonstrating NumPy functionality.
 | [20231006152250564853](https://colab.research.google.com/drive/1FPBsaUgrF5NS8oNYjD-Oj1skwl1O_4CV?usp=sharing)                  | Modeling If-Else Statements                          |
 | [20230404134951493206](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20230404134951493206.ipynb) | Gradient Descent (Parametric Experiments) |
 | [20230404152512034886](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates) |
+| [20231029170817460242](https://colab.research.google.com/drive/1MjqZpU3mJrOPoVSnRkY72grN_uO78LA4?usp=sharing) | Cramer's Rule |
 
 ### Regular Expressions
 
