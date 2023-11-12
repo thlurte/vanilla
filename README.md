@@ -5,6 +5,7 @@ This repository contains a collection of Jupyter notebooks covering various topi
 | Notebook | Name |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | [20231029170817460242](https://colab.research.google.com/drive/1MjqZpU3mJrOPoVSnRkY72grN_uO78LA4?usp=sharing) | Cramer's Rule |
+| [20231112075949321760](https://colab.research.google.com/drive/1ouw0VAckjVbNzZEd3QXjRQyKW5KeSHg2?usp=sharing) | Matrix Inverse Method |
 
 
 ## Machine Learning
