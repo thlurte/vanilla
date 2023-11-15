@@ -26,6 +26,7 @@ This repository contains a collection of Jupyter notebooks covering various topi
 
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| [20231115100118571717](https://colab.research.google.com/drive/1sBepWG5N9hOW-uUOqfcmt9FExSWbUaiB?usp=sharing) | Conditional Probability |
 | [20221225151217086929](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20221225151217086929.ipynb) | Law of Large Numbers |
 
 ## Data Structures and Algorithms
