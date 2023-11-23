@@ -20,7 +20,8 @@ This repository contains a collection of Jupyter notebooks covering various topi
 | [20230408114323762483](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408114323762483.ipynb) | Logistic Regression with Multilayer Perceptrons I |
 | [20230410140124120369](https://github.com/Thlurte/Vanilla/blob/main/Python/Pytorch/20230410140124120369.ipynb) | Logistic Regression with Multilayer Perceptrons II  |
 | [20231122060234895180](https://colab.research.google.com/drive/1U10FjHxTteuuTeCvIkp992mgRz9oWHSC?usp=sharing) | Linear Regression  |
-| [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408101906275314.ipynb) | Linear Regression II  |
+| [20231123104154203513](https://colab.research.google.com/drive/18Xxr3lzGOPqgOI2rTucteNBTFnkCbLSl?usp=sharing) | Linear Regression II  |
+| [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408101906275314.ipynb) | Linear Regression III  |
 | [20230410155618847486](https://github.com/Thlurte/Vanilla/blob/main/Python/Pytorch/20230410155446627848.ipynb) | Logistic Regression without Nonlinear Functions |
 
 ## Probability & Statistics
