@@ -24,6 +24,7 @@ This repository contains a collection of Jupyter notebooks covering various topi
 | [20231122060234895180](https://colab.research.google.com/drive/1U10FjHxTteuuTeCvIkp992mgRz9oWHSC?usp=sharing) | Linear Regression  |
 | [20231123104154203513](https://colab.research.google.com/drive/18Xxr3lzGOPqgOI2rTucteNBTFnkCbLSl?usp=sharing) | Linear Regression II  |
 | [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408101906275314.ipynb) | Linear Regression III  |
+| [20231125141945425264](https://colab.research.google.com/drive/1OBV5cu6KOofFPcr-sBF9fc-5LimKclcr?usp=sharing) | Shallow Nerural Networks  |
 
 ## Probability & Statistics
 
