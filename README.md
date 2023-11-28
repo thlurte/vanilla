@@ -30,7 +30,8 @@ This repository contains a collection of Jupyter notebooks covering various topi
 
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| [20231125141945425264](https://colab.research.google.com/drive/1OBV5cu6KOofFPcr-sBF9fc-5LimKclcr?usp=sharing) | Shallow Neural Networks  |
+| [20231125141945425264](https://colab.research.google.com/drive/1OBV5cu6KOofFPcr-sBF9fc-5LimKclcr?usp=sharing) | Shallow Neural Network  |
+| [20231128073839669175](https://colab.research.google.com/drive/1--WwFTO7OgLJcK0T0x5vgPVqWF0UMUyE?usp=sharing) | Deep Neural Network  |
 
 ## Probability & Statistics
 
