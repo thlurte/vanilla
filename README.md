@@ -13,17 +13,23 @@ This repository contains a collection of Jupyter notebooks covering various topi
 | Notebook | Name |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | [20231006152250564853](https://colab.research.google.com/drive/1FPBsaUgrF5NS8oNYjD-Oj1skwl1O_4CV?usp=sharing) | Modeling If-Else Statements |
-| [20230404144840702834](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Sympy/20230404144840702834.ipynb) | Gradient Decent |
-| [20230404134951493206](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20230404134951493206.ipynb) | Gradient Descent (Parametric Experiments) |
-| [20230404152512034886](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates) |
+| [20230404144840702834](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Gradient%20Descent/20230404144840702834.ipynb) | Gradient Decent |
+| [20230404134951493206](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Gradient%20Descent/20230404134951493206.ipynb) | Gradient Descent (Parametric Experiments) |
+| [20230404152512034886](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Gradient%20Descent/20230404152512034886.ipynb) | Gradient Descent (Varying Learning Rates) |
 | [20231124165756755337](https://colab.research.google.com/drive/1sXTXVqmzHd7YVNNj9JtaiaeVNq5DZ7rX?usp=sharing) | Logistic Regression |
-| [20230408151749841563](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408151749841563.ipynb) | Logistic Regression (Parametric Experiments) |
-| [20230410155618847486](https://github.com/Thlurte/Vanilla/blob/main/Python/Pytorch/20230410155446627848.ipynb) | Logistic Regression without Nonlinear Functions |
-| [20230408114323762483](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408114323762483.ipynb) | Logistic Regression with Multilayer Perceptrons I |
-| [20230410140124120369](https://github.com/Thlurte/Vanilla/blob/main/Python/Pytorch/20230410140124120369.ipynb) | Logistic Regression with Multilayer Perceptrons II  |
+| [20230408151749841563](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Logistic%20Regression/20230408151749841563.ipynb) | Logistic Regression (Parametric Experiments) |
+| [20230410155618847486](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Logistic%20Regression/20230410155446627848.ipynb) | Logistic Regression without Nonlinear Functions |
+| [20230408114323762483](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Logistic%20Regression/20230408114323762483.ipynb) | Logistic Regression with Multilayer Perceptrons I |
+| [20230410140124120369](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Logistic%20Regression/20230410140124120369.ipynb) | Logistic Regression with Multilayer Perceptrons II  |
 | [20231122060234895180](https://colab.research.google.com/drive/1U10FjHxTteuuTeCvIkp992mgRz9oWHSC?usp=sharing) | Linear Regression  |
 | [20231123104154203513](https://colab.research.google.com/drive/18Xxr3lzGOPqgOI2rTucteNBTFnkCbLSl?usp=sharing) | Linear Regression II  |
-| [20230408101906275314](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pytorch/20230408101906275314.ipynb) | Linear Regression III  |
+| [20230408101906275314](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Linear%20Regression/20230408101906275314.ipynb) | Linear Regression III  |
+| [20230406121024819500](https://nbviewer.org/github/thlurte/vanilla/blob/main/Machine%20Learning/Clustering/20230406100449170308.ipynb) | Clustering PCA, t-SNE, and k-means |
+
+## Computer Vision
+| Notebook | Name |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| [20231130124052189990](https://colab.research.google.com/drive/13e_WvhCDUTyJ7C01ABxHj2b_jiqmuS6o?usp=sharing) | Object Detection with YOLOv6  |
 
 
 ## Deep Learning
@@ -38,27 +44,26 @@ This repository contains a collection of Jupyter notebooks covering various topi
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
 | [20231115100118571717](https://colab.research.google.com/drive/1sBepWG5N9hOW-uUOqfcmt9FExSWbUaiB?usp=sharing) | Conditional Probability |
-| [20221225151217086929](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/20221225151217086929.ipynb) | Law of Large Numbers |
+| [20221225151217086929](https://nbviewer.org/github/thlurte/vanilla/blob/main/Probability%20%26%20Statistics/Law%20of%20Large%20Numbers/20221225151217086929.ipynb) | Law of Large Numbers |
 
 ## Data Structures and Algorithms
 
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| [20231112011209576246](#) | Bubble Sort |
+| [20231112011209576246](https://raw.githubusercontent.com/thlurte/vanilla/main/Data%20Structures%20and%20Algorithms/Sorting/bubblesort.cpp) | Bubble Sort |
 
 
 ## Signal Processing
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| [20230406212520632242](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Numpy/101.ipynb) | Spectral Analysis |
+| [20230406212520632242](https://nbviewer.org/github/thlurte/vanilla/blob/main/Signal%20Processing/20230406212520632242.ipynb) | Spectral Analysis |
 
 ## Other  
 
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| [20230406121024819500](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Scikit-Learn/20230406100449170308.ipynb) | Clustering PCA, t-SNE, and k-means |
-| [20230406212350831311](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Regular%20Expressions/File-101.ipynb) | Text search and replace |
-| [20230406212246509623](https://nbviewer.org/github/Thlurte/Vanilla/blob/main/Python/Pandas/File-102.ipynb) | Entrophy of written English |
+| [20230406212350831311](https://nbviewer.org/github/thlurte/vanilla/blob/main/Other/20230406212350831311.ipynb) | Text search and replace |
+| [20230406212246509623](https://nbviewer.org/github/thlurte/vanilla/blob/main/Other/20230406212246509623.ipynb) | Entrophy of written English |
 
 
 ## Off-topic
