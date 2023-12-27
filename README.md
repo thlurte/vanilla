@@ -29,6 +29,7 @@ This repository contains a collection of Jupyter notebooks covering various topi
 ## Computer Vision
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| [20231227103505020955](https://colab.research.google.com/drive/1Mbtb6o76PL-WvZ3OVkBF_Ep5ff0lsWdP?usp=sharing) | Single Layer ConvNet |
 | [20231130124052189990](https://colab.research.google.com/drive/13e_WvhCDUTyJ7C01ABxHj2b_jiqmuS6o?usp=sharing) | Object Detection with YOLOv6  |
 
 
