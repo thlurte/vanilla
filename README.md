@@ -30,6 +30,7 @@ This repository contains a collection of Jupyter notebooks covering various topi
 | Notebook | Name |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
 | [20231227103505020955](https://colab.research.google.com/drive/1Mbtb6o76PL-WvZ3OVkBF_Ep5ff0lsWdP?usp=sharing) | Single Layer ConvNet |
+| [20231228133241764700](https://colab.research.google.com/drive/1fOyWpK0W6rgthJkWQEyujn5C3gk-F6D3?usp=sharing) | Multi-class Image Recognition with Deep ConvNets |
 | [20231130124052189990](https://colab.research.google.com/drive/13e_WvhCDUTyJ7C01ABxHj2b_jiqmuS6o?usp=sharing) | Object Detection with YOLOv6  |
 
 
